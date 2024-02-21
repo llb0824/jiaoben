@@ -17,7 +17,7 @@ TG频道群：
 *******************************
 
 [rewrite_local]
-^https:\/\/vip\.115\.com\/tb\/vipinfo\/ url script-response-body https://raw.githubusercontent.com/llb0824/jiaoben/5fe26f326aba53754df49b4445cbf64d1858ee56/qiandian02.js
+^https:\/\/vip\.115\.com\/tb\/vipinfo\/ url script-response-body https://raw.githubusercontent.com/llb0824/jiaoben/main/qiandian02.js
 
 [mitm]
 hostname = vip.115.com
